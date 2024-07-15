@@ -1,4 +1,4 @@
-# TPSI (Trajecroy Prediction with State Encoder in Interaction scenario)
+# ISTP (Interaction Scenario Trajectory Prediction with State Encoder)
 
 ## Setup
 All code was developed and tested on Ubuntu 20.04 wuth python 3.7 and PyTorch 1.13.0.
@@ -11,7 +11,7 @@ ex) tensorboard --logdir="/home/ngnadmin/dev/ngn_2024/MMT4/MMT/scripts2/log/nosc
 ## Data
 [waterloo]
 * location: mmt/datasets/waterloo/~
-* [preprocessed data link](https://drive.google.com/drive/folders/1ckMekecn2AmLaw7wARGBTCKjzf3xGTfB)
+* [preprocessed data link]()
   - img folder: image raw(.png), image feature file(.pkl) 
   - train, val, test folder: trajectory, agent state information(.csv)
     
@@ -28,7 +28,7 @@ ex) tensorboard --logdir="/home/ngnadmin/dev/ngn_2024/MMT4/MMT/scripts2/log/nosc
 > MMT/ python /.visualization/draw_trajectory_noscene1.py
 
 ## Dataset
-[Waterloo multi-agent traffic dataset: intersection](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/datasets/waterloo-multi-agent-traffic-dataset-intersection)
+[Waterloo multi-agent traffic dataset: intersection]()
 
 ## Acknowledgement
 
