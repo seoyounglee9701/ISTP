@@ -6,10 +6,10 @@
 ## Setup
 All code was developed and tested on Ubuntu 20.04 wuth python 3.7 and PyTorch 1.13.0.
 
-## Tensor Board 
+## Visualization
 
 tensorboard --logdir=directory_to_log_file
-ex) tensorboard --logdir="/home/ngnadmin/dev/ngn_2024/MMT4/MMT/scripts2/log/noscene_v2_2/state2/obs8/1"
+ex) tensorboard --logdir="tb_file_path"
 
 ## Data
 [waterloo]
@@ -22,17 +22,27 @@ ex) tensorboard --logdir="/home/ngnadmin/dev/ngn_2024/MMT4/MMT/scripts2/log/nosc
 [google drive]()
 
 ## Evaluate Models
-> MMT/scripts/ python evaluate_noscene.py
+> ~/scripts/ python evaluate_noscene.py
 
 ## Train a model
-> MMT/scripts/ ./run_traj_noscene_1.sh
+> ~/scripts/ ./run_traj_noscene_1.sh
 
 ## Draw Trajectory using plt
-> MMT/ python /.visualization/draw_trajectory_noscene1.py
+> ~/ python /.visualization/draw_trajectory_noscene1.py
 
 ## Dataset
-[Waterloo multi-agent traffic dataset: intersection]()
+[Waterloo multi-agent traffic dataset: intersection](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/datasets/waterloo-multi-agent-traffic-dataset-intersection)
+[Stanford Drone Dataset-Death Circle](https://cvgl.stanford.edu/projects/uav_data/)
+[ETH Dataset](https://paperswithcode.com/dataset/eth)
+[IND Datatset] : (To Do)
 
 ## Acknowledgement
 
-Thanks for the model structure idea and code from [sgan](https://github.com/agrimgupta92/sgan), [d2-tpred](https://github.com/VTP-TL/D2-TPred) 
+Thanks for the model structure idea and code from [sgan](https://github.com/agrimgupta92/sgan), [d2-tpred](https://github.com/VTP-TL/D2-TPred), [Trajectory-Transformer](https://github.com/FGiuliari/Trajectory-Transformer) 
+
+## Changelog
+
+## TO-DO
+[ ] refactoring folder name
+[ ] tf-based model hyper-parameter tuning
+[ ] upload ckpt file
