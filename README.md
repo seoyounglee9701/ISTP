@@ -1,5 +1,8 @@
 # ISTP (Interaction Scenario Trajectory Prediction with State Encoder)
 
+## Model Structure
+![arch4](https://github.com/user-attachments/assets/175bbb34-e09b-420d-a111-20381cc93ddf)
+
 ## Setup
 All code was developed and tested on Ubuntu 20.04 wuth python 3.7 and PyTorch 1.13.0.
 
