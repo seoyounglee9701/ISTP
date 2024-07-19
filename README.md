@@ -4,7 +4,7 @@
 <img src="https://github.com/user-attachments/assets/a073a915-7853-4ba3-8896-08fd6f578294" width="560" height="330"/>
 
 ## Setup
-All code was developed and tested on Ubuntu 20.04 wuth python 3.7 and PyTorch 1.13.0.
+All code was developed and tested on Ubuntu 20.04 with python 3.7 and PyTorch 1.13.0.
 
 ## Visualization
 
@@ -13,7 +13,7 @@ ex) tensorboard --logdir="tb_file_path"
 
 ## Data
 [waterloo]
-* location: mmt/datasets/waterloo/~
+* location: ~/datasets/waterloo/~
 * [preprocessed data link]()
   - img folder: image raw(.png), image feature file(.pkl) 
   - train, val, test folder: trajectory, agent state information(.csv)
