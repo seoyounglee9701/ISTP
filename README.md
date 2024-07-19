@@ -13,7 +13,7 @@ ex) tensorboard --logdir="tb_file_path"
 
 ## Data
 [waterloo]
-* location: ~/datasets/waterloo/~
+* location: ~ /datasets/waterloo/ ~
 * [preprocessed data link]()
   - img folder: image raw(.png), image feature file(.pkl) 
   - train, val, test folder: trajectory, agent state information(.csv)
