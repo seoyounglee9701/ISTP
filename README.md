@@ -1,7 +1,7 @@
 # ISTP (Interaction Scenario Trajectory Prediction with State Encoder)
 
 ## System Architecture
-<img src="[https://url/image.png](https://github.com/user-attachments/assets/a073a915-7853-4ba3-8896-08fd6f578294)" width="370" height="220"/>
+<img src="https://github.com/user-attachments/assets/a073a915-7853-4ba3-8896-08fd6f578294" width="370" height="220"/>
 
 ## Setup
 All code was developed and tested on Ubuntu 20.04 wuth python 3.7 and PyTorch 1.13.0.
