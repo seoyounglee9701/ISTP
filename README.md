@@ -31,10 +31,10 @@ ex) tensorboard --logdir="tb_file_path"
 run ./vis/(dataset-name)/(file-name).ipynb
 
 ## Dataset
-[Waterloo multi-agent traffic dataset: intersection](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/datasets/waterloo-multi-agent-traffic-dataset-intersection)
-[Stanford Drone Dataset-Death Circle](https://cvgl.stanford.edu/projects/uav_data/)
-[ETH Dataset](https://paperswithcode.com/dataset/eth)
-[IND Datatset] : (To Do)
+* [Waterloo multi-agent traffic dataset: intersection](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/datasets/waterloo-multi-agent-traffic-dataset-intersection)
+* [Stanford Drone Dataset-Death Circle](https://cvgl.stanford.edu/projects/uav_data/)
+* [ETH Dataset](https://paperswithcode.com/dataset/eth)
+* [inD Datatset](https://levelxdata.com/ind-dataset/ : (To Do)
 
 ## Acknowledgement
 
