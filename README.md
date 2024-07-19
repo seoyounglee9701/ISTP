@@ -43,6 +43,6 @@ Thanks for the model structure idea and code from [sgan](https://github.com/agri
 ## Changelog
 
 ## TO-DO
-[ ] refactoring folder name
-[ ] tf-based model hyper-parameter tuning
-[ ] upload ckpt file
+- [ ] refactoring folder name
+- [ ] tf-based model hyper-parameter tuning
+- [ ] upload ckpt file
