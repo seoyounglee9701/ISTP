@@ -28,7 +28,7 @@ ex) tensorboard --logdir="tb_file_path"
 > ~/scripts/ ./run_traj_noscene_1.sh
 
 ## Draw Trajectory using plt
-> ~/ python /.visualization/draw_trajectory_noscene1.py
+run ./vis/(dataset-name)/(file-name).ipynb
 
 ## Dataset
 [Waterloo multi-agent traffic dataset: intersection](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/datasets/waterloo-multi-agent-traffic-dataset-intersection)
@@ -41,6 +41,7 @@ ex) tensorboard --logdir="tb_file_path"
 Thanks for the model structure idea and code from [sgan](https://github.com/agrimgupta92/sgan), [d2-tpred](https://github.com/VTP-TL/D2-TPred), [Trajectory-Transformer](https://github.com/FGiuliari/Trajectory-Transformer) 
 
 ## Changelog
+
 
 ## TO-DO
 - [ ] refactoring folder name
